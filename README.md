@@ -13,7 +13,7 @@ C'est une **propriété CSS** qui va **modifier / mélanger** la couleur d'un pa
 # 🌫️ Backdrop-filter
 C'est une **propriété CSS** qui va appliquer un **effet de filtre flou** à l'arrière plan du texte dans lequel il se trouve.
 
-```backdrop-filter: blur(2px);```
+```backdrop-filter: blur(10px);```
 
 [Backdrop-filter exemple & source](https://css-tricks.com/almanac/properties/b/backdrop-filter/)
 
